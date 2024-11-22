@@ -26,7 +26,6 @@ Installation: [cJSON](https://github.com/DaveGamble/cJSON)
   ```bash
   json_data=$(curl "http://api.weatherapi.com/v1/current.json?key=d8170b5ec9f84e669bf123724240311&q=karachi")
   
-
 * ### Data Parsing (cJSON):
 
   The fetched data is in JSON format, and it is parsed using the cJSON library to extract specific environmental metrics.
