@@ -2,15 +2,11 @@
 
 ## Introduction
 The Integrated Environmental Monitoring System is designed to provide real-time monitoring of environmental conditions such as temperature, humidity, and air quality. The system retrieves data from a weather API, processes and parses it using C language, and generates alerts when specific environmental thresholds are exceeded. The core of the project involves fetching environmental data, parsing the JSON response, evaluating key parameters, and generating automated alerts in case of abnormal conditions.
-## Dependencies
-The Integrated Environmental Monitoring System requires the following dependencies:
 
-### 1. libcurl
-Purpose: Used to send HTTP requests to fetch weather data from the API.
+## Dependency
+The Integrated Environmental Monitoring System requires the following dependency:
 
-Installation: [libcurl](https://curl.se/libcurl/)
-
-### 2. cJSON
+### 1. cJSON
 Purpose: A lightweight library to parse and manipulate JSON data.
 
 Installation: [cJSON](https://github.com/DaveGamble/cJSON)
@@ -76,8 +72,7 @@ Installation: [cJSON](https://github.com/DaveGamble/cJSON)
 
 ## Future Enhancements
 
-* Web Interface: Implementing a web interface for real-time monitoring and alerting.
-  
+* Web Interface: Implementing a web interface for real-time monitoring and alerting. 
 * Data Visualization: Creating graphs or dashboards to visualize historical data and trends.
 
 ## Contributors
