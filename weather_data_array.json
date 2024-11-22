@@ -1,0 +1,169 @@
+[{
+		"date":	"2024-11-22 07:36:02",
+		"location":	{
+			"name":	"Karachi",
+			"region":	"Sindh",
+			"country":	"Pakistan",
+			"lat":	24.8667,
+			"lon":	67.05
+		},
+		"current_weather":	{
+			"temperature_c":	24.6,
+			"humidity":	65,
+			"condition":	"Sunny"
+		}
+	}, {
+		"date":	"2024-11-22 08:36:02",
+		"location":	{
+			"name":	"Karachi",
+			"region":	"Sindh",
+			"country":	"Pakistan",
+			"lat":	24.8667,
+			"lon":	67.05
+		},
+		"current_weather":	{
+			"temperature_c":	23.1,
+			"humidity":	83,
+			"condition":	"Overcast"
+		}
+	}, {
+		"date":	"2024-11-22 09:36:01",
+		"location":	{
+			"name":	"Karachi",
+			"region":	"Sindh",
+			"country":	"Pakistan",
+			"lat":	24.8667,
+			"lon":	67.05
+		},
+		"current_weather":	{
+			"temperature_c":	27.2,
+			"humidity":	62,
+			"condition":	"Overcast"
+		}
+	}, {
+		"date":	"2024-11-22 09:55:02",
+		"location":	{
+			"name":	"Karachi",
+			"region":	"Sindh",
+			"country":	"Pakistan",
+			"lat":	24.8667,
+			"lon":	67.05
+		},
+		"current_weather":	{
+			"temperature_c":	27.3,
+			"humidity":	62,
+			"condition":	"Overcast"
+		}
+	}, {
+		"date":	"2024-11-22 12:56:02",
+		"location":	{
+			"name":	"Karachi",
+			"region":	"Sindh",
+			"country":	"Pakistan",
+			"lat":	24.8667,
+			"lon":	67.05
+		},
+		"current_weather":	{
+			"temperature_c":	31.3,
+			"humidity":	38,
+			"condition":	"Mist"
+		}
+	}, {
+		"date":	"2024-11-22 15:36:03",
+		"location":	{
+			"name":	"Karachi",
+			"region":	"Sindh",
+			"country":	"Pakistan",
+			"lat":	24.8667,
+			"lon":	67.05
+		},
+		"current_weather":	{
+			"temperature_c":	32.2,
+			"humidity":	36,
+			"condition":	"Partly cloudy"
+		}
+	}, {
+		"date":	"2024-11-22 19:55:02",
+		"location":	{
+			"name":	"Karachi",
+			"region":	"Sindh",
+			"country":	"Pakistan",
+			"lat":	24.8667,
+			"lon":	67.05
+		},
+		"current_weather":	{
+			"temperature_c":	26.4,
+			"humidity":	58,
+			"condition":	"Partly cloudy"
+		}
+	}, {
+		"date":	"2024-11-22 20:14:23",
+		"location":	{
+			"name":	"Karachi",
+			"region":	"Sindh",
+			"country":	"Pakistan",
+			"lat":	24.8667,
+			"lon":	67.05
+		},
+		"current_weather":	{
+			"temperature_c":	26.4,
+			"humidity":	58,
+			"condition":	"Partly cloudy"
+		}
+	}, {
+		"date":	"2024-11-22 20:38:38",
+		"location":	{
+			"name":	"Karachi",
+			"region":	"Sindh",
+			"country":	"Pakistan",
+			"lat":	24.8667,
+			"lon":	67.05
+		},
+		"current_weather":	{
+			"temperature_c":	26.3,
+			"humidity":	61,
+			"condition":	"Partly cloudy"
+		}
+	}, {
+		"date":	"2024-11-22 20:41:14",
+		"location":	{
+			"name":	"Karachi",
+			"region":	"Sindh",
+			"country":	"Pakistan",
+			"lat":	24.8667,
+			"lon":	67.05
+		},
+		"current_weather":	{
+			"temperature_c":	26.3,
+			"humidity":	61,
+			"condition":	"Partly cloudy"
+		}
+	}, {
+		"date":	"2024-11-22 20:42:23",
+		"location":	{
+			"name":	"Karachi",
+			"region":	"Sindh",
+			"country":	"Pakistan",
+			"lat":	24.8667,
+			"lon":	67.05
+		},
+		"current_weather":	{
+			"temperature_c":	26.3,
+			"humidity":	61,
+			"condition":	"Partly cloudy"
+		}
+	}, {
+		"date":	"2024-11-22 20:47:21",
+		"location":	{
+			"name":	"Karachi",
+			"region":	"Sindh",
+			"country":	"Pakistan",
+			"lat":	24.8667,
+			"lon":	67.05
+		},
+		"current_weather":	{
+			"temperature_c":	26.3,
+			"humidity":	61,
+			"condition":	"Partly cloudy"
+		}
+	}]
